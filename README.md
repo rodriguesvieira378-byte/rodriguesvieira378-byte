@@ -14,7 +14,7 @@ Uso IA (Claude) no dia a dia para projetar, programar e testar mais rápido, e e
 Compartilhamento de tela ao vivo com um código de 6 letras. O Android captura a tela de forma nativa e quem assiste usa só o navegador, inclusive no iPhone.
 
 **Java · Android (MediaProjection) · WebRTC · JavaScript**
-[Abrir o site](https://trc-telas.vercel.app) · [Código e APK](https://github.com/rodriguesvieira378-byte/trc-telas)
+[Abrir o site](https://trc-telas.vercel.app) · [Código](https://github.com/rodriguesvieira378-byte/trc-telas) · [Baixar o APK](https://github.com/rodriguesvieira378-byte/trc-telas/raw/main/apk/TRC-TELAS-2.0.apk)
 
 ### 🛠️ Técnico de Plantão
 Jogo em modo história para quem estuda redes: você atende chamados e resolve mini-jogos de crimpar cabo no padrão T568B e calcular sub-redes.
