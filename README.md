@@ -34,8 +34,8 @@ Cada chamado é um PC sem rede: descubra se o erro está no IP, na máscara, no 
 |---|---|---|
 | Endereçamento IPv4 e sub-redes | HTML, CSS, JavaScript | Android Studio |
 | Cabeamento (T568A/B) | Java (Android) | MIT App Inventor |
-| Projeto de rede para empresa (TCC) | Node.js | Git e GitHub |
-| Diagnóstico de rede | MySQL, Supabase | Vercel |
+| Diagnóstico de rede | Node.js | Git e GitHub |
+| | MySQL, Supabase | Vercel |
 | | | IA generativa (Claude) |
 
 ## Também estou no
