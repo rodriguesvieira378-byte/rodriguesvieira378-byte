@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071330"/><stop offset="1" stop-color="#12307A"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FFFFFF" opacity=".03"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#scan)"/>
+  <!-- ondas de sinal -->
+  <g fill="none" stroke="#38BDF8" stroke-linecap="round">
+    <circle cx="1080" cy="230" r="10" fill="#38BDF8" stroke="none"/>
+    <path d="M1080 186 A44 44 0 0 1 1124 230" stroke-width="12" opacity=".9"/>
+    <path d="M1080 140 A90 90 0 0 1 1170 230" stroke-width="12" opacity=".55"/>
+    <path d="M1080 94 A136 136 0 0 1 1216 230" stroke-width="12" opacity=".25"/>
+  </g>
+  <!-- topologia simples -->
+  <g transform="translate(70 -10)"><g stroke="#1F6FEB" stroke-width="2" opacity=".55">
+    <line x1="820" y1="70" x2="900" y2="120"/><line x1="900" y1="120" x2="980" y2="70"/>
+    <line x1="900" y1="120" x2="900" y2="190"/>
+  </g>
+  <g fill="#1F6FEB"><circle cx="820" cy="70" r="7"/><circle cx="980" cy="70" r="7"/><circle cx="900" cy="190" r="7"/></g>
+  <rect x="884" y="106" width="32" height="28" rx="6" fill="#38BDF8"/></g>
+  <text x="70" y="135" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#EAF2FF">Cassio Vieira</text>
+  <text x="72" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#8EA3C7">Técnico em Redes de Computadores · Dev de apps e web com IA</text>
+  <rect x="72" y="222" width="300" height="4" rx="2" fill="#38BDF8"/>
+</svg>
