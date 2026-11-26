@@ -8,6 +8,8 @@ Uso IA (Claude) no dia a dia para projetar, programar e testar mais rápido, e e
 
 📫 **Aberto a oportunidades** em redes, suporte de TI e desenvolvimento: **[rodriguesvieira378@gmail.com](mailto:rodriguesvieira378@gmail.com)**
 
+🌐 **Site e exemplos de trabalho:** [cassiovieira.vercel.app](https://cassiovieira.vercel.app)
+
 ## Projetos
 
 ### 📡 TRC TELAS
