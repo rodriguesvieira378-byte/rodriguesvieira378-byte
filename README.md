@@ -17,13 +17,13 @@ Compartilhamento de tela ao vivo com um código de 6 letras. O Android captura a
 [Abrir o site](https://trc-telas.vercel.app) · [Código](https://github.com/rodriguesvieira378-byte/trc-telas) · [Baixar o APK](https://github.com/rodriguesvieira378-byte/trc-telas/raw/main/apk/TRC-TELAS-2.0.apk)
 
 ### 🛠️ Técnico de Plantão
-Jogo em modo história para quem estuda redes: você atende chamados e resolve mini-jogos de crimpar cabo no padrão T568B e calcular sub-redes.
+Jogo para quem estuda redes: você é o técnico de plantão e resolve mais de 60 chamados do dia a dia de TI, subindo de Estagiário até Coordenador de TI. Roda no navegador ou como APK.
 
 **HTML · CSS · JavaScript · MIT App Inventor**  
 [Jogar no itch.io](https://cassio-vieira.itch.io/tecnico-de-plantao)
 
 ### 🔌 Conserta Rede
-Jogo solo sobre diagnóstico de redes, que nasceu do módulo Conserta Rede do meu app REDE LAB.
+Cada chamado é um PC sem rede: descubra se o erro está no IP, na máscara, no gateway ou no DNS usando ping, nslookup e ipconfig, como no Windows. As redes são sorteadas a cada partida.
 
 **HTML · CSS · JavaScript**  
 [Jogar no itch.io](https://cassio-vieira.itch.io/conserta-rede)
